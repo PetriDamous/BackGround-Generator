@@ -5,7 +5,7 @@ let button = document.querySelector('button');
 let current_color = document.querySelector('h3');
 
 const change_color = () => {        
-   let color = gradient.style.background = `linear-gradient(to right, ${color1.value} , ${color2.value})`;
+   let color = gradient.style.background = `linear-gradient(to right, ${color1.value} , ${color2.value})`;   
    current_color.innerText = `${color};`;    
 }
 
@@ -42,13 +42,6 @@ color2.addEventListener("input", change_color);
 button.addEventListener("click", random_color);
 
 random_color();
-
-/*
-function change_color(){
-   color = gradient.style.background = `linear-gradient(to right, ${color1.value} , ${color2.value})`;
-   current_color.innerText = start_color;    
-}
-*/
 
 //Note: es6 functions must be defined first before called on similar to Ruby
 //Note: es5 functions can be called anywhere
