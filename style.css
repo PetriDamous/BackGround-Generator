@@ -1,1 +1,19 @@
-//css
+body{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    color: rgba(0, 0, 0, 0.6);
+   
+}
+
+h1{
+    font: italic 600 3.5em 'Raleway', sans-serif ;
+    color: rgba(0, 0, 0, 0.5);    
+    width: 100%;
+}
+
+h3{
+    font-style: italic;
+    
+}
