@@ -1,8 +1,4 @@
 # BackGround-Generator
 
-1. Generates a gradient background based on user input.
-
-2. Can generate a random gradient background when random button is pressed
-
-3. Displays the css code for the gradient
+Simple webpage that changes background color depending on user input. Utilizes the Fisher-Yates shuffle algorithm to generate a random background color whenever the page loads or the random button is clicked. 
 
