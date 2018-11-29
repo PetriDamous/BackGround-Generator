@@ -1,3 +1,5 @@
+var _ = require('lodash');
+
 let color1 = document.getElementById('color1');
 let color2 = document.getElementById('color2');
 let gradient = document.getElementById('gradient');
