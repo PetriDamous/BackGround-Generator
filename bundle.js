@@ -17112,6 +17112,10 @@
 },{}],2:[function(require,module,exports){
 var _ = require('lodash');
 
+let array = [1, 2, 3, 4, 5, 6];
+
+console.log(_.without(array,3));
+
 let color1 = document.getElementById('color1');
 let color2 = document.getElementById('color2');
 let gradient = document.getElementById('gradient');
