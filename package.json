@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Simple webpage that changes background color depending on user input. Utilizes the Fisher-Yates shuffle algorithm to generate a random background color whenever the page loads or the random button is clicked.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwilliams64/BackGround-Generator.git"
+  },
+  "author": "Dimitri Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwilliams64/BackGround-Generator/issues"
+  },
+  "homepage": "https://github.com/dwilliams64/BackGround-Generator#readme"
+}
