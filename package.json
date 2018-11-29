@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dwilliams64/BackGround-Generator/issues"
   },
-  "homepage": "https://github.com/dwilliams64/BackGround-Generator#readme"
+  "homepage": "https://github.com/dwilliams64/BackGround-Generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
