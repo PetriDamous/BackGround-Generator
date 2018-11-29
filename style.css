@@ -13,7 +13,4 @@ h1{
     width: 100%;
 }
 
-h3{
-    font-style: italic;
-    
-}
+h3{ font-style: italic; }
